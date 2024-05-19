@@ -5,3 +5,15 @@ a
 1src/main/kotlin/nattoku_algorithm/nibuntansaku.kt,4/0/40402b99f8c2925b6f94c6b28811d5780d404e45
 i
 9src/main/kotlin/nattoku_algorithm/nubuntansaku_maxstep.kt,e/8/e858722ef8e588bb3b9341e3660f8d67a453b84b
+_
+/src/main/kotlin/nattoku_algorithm/listMaxNum.kt,b/4/b42a2be75a102056514fb8cf491f5d21988727e0
+^
+.src/main/kotlin/nattoku_algorithm/countdown.kt,1/8/1811c80cd31505da01bd880cbb2d7e565216c09b
+Y
+)src/main/kotlin/nattoku_algorithm/fact.kt,9/8/9866d3f04a637bb327ebde252a40d7b9b9c1fd60
+Z
+*src/main/kotlin/nattoku_algorithm/greet.kt,6/4/644a0e46efb96c09c5bc967159e791d2edfe4062
+f
+6src/main/kotlin/nattoku_algorithm/stationPrefecture.kt,b/8/b8670b6610d055e3e14dffb2e1557bcb183b17ca
+^
+.src/main/kotlin/nattoku_algorithm/practicse.kt,4/0/4052bf867d43ed5393566849777105fcbe24cb1e
