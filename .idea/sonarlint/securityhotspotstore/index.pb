@@ -21,3 +21,5 @@ H
 src/main/kotlin/leatCode,8/b/8b1dc251a97ab10998010a52439872aaafaad0cc
 S
 #src/main/kotlin/leat_code/to_sum.kt,0/8/08d5a224f928266692c3b9ed87aa691dec8e56cb
+T
+$src/main/kotlin/leat_code/two_sum.kt,e/7/e79c06179dc6b6cc44b51dbbb40a4b17ddc98f43
