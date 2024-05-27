@@ -17,9 +17,7 @@ f
 6src/main/kotlin/nattoku_algorithm/stationPrefecture.kt,b/8/b8670b6610d055e3e14dffb2e1557bcb183b17ca
 ^
 .src/main/kotlin/nattoku_algorithm/practicse.kt,4/0/4052bf867d43ed5393566849777105fcbe24cb1e
-H
-src/main/kotlin/leatCode,8/b/8b1dc251a97ab10998010a52439872aaafaad0cc
-S
-#src/main/kotlin/leat_code/to_sum.kt,0/8/08d5a224f928266692c3b9ed87aa691dec8e56cb
 T
 $src/main/kotlin/leat_code/two_sum.kt,e/7/e79c06179dc6b6cc44b51dbbb40a4b17ddc98f43
+^
+.src/main/kotlin/leat_code/palindrome_number.kt,f/6/f62d5df9085f1d8175bff7078497afde3f9b4581
