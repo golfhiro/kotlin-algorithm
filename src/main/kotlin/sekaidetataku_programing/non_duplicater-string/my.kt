@@ -1,4 +1,4 @@
-package sekaide_tatakau_programing_ryoku.`non_duplicater-string`
+package sekaidetataku_programing.`non_duplicater-string`
 
 // 世界で闘うプログラミング力を鍛える本 p.107 問題1.1
 fun nonDuplicatedString(str: String): String {

@@ -1,4 +1,4 @@
-package sekaide_tatakau_programing_ryoku.zyunretu_check
+package sekaidetataku_programing.zyunretu_check
 
 // 世界で闘うプログラミング力を鍛える本 p.107 問題1.2
 fun my(str_1: String, str_2: String): Boolean {
